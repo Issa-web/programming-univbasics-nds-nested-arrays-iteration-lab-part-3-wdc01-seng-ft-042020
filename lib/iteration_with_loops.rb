@@ -13,7 +13,7 @@ while element_index < src[row_index].count do
   new_array_of_string << src[row_index][element_index]
    
 end
-
+element_index += 1
   row_index += 1
 #binding.pry
 end 
