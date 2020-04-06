@@ -14,7 +14,7 @@ while element_index < src[row_index].count do
    
 end
 element_index += 1
-  row_index += 1
+  
 #binding.pry
 end 
 
