@@ -19,6 +19,6 @@ element_index += 1
 end 
 row_index += 1
 end
-new_array_of_string 
+new_array_of_string.join(" ")
 
 end
