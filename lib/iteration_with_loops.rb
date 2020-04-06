@@ -17,7 +17,7 @@ element_index += 1
   
 #binding.pry
 end 
-
+row_index += 1
 end
 new_array_of_string 
 
